@@ -1,7 +1,7 @@
 # mvina
-Modified version of AutoDock Vina (Linux version)
+### Modified version of AutoDock Vina (Linux version)
 
-## Descreption
+## Description
 AutoDock Vina formed a very high successful-docking rate but a rather low correlation coefficient. This low correlation can be an obstacle for ranking of ligand-binding affinity, which is the main objective of docking simulations. The accuracy of Vina likely depends on the empirical parameters, which include the Gaussian steric interaction, repulsion, hydrophobic, hydrogen bond, and rotation metrics. A new set of empirical parameters was proposed to improve the docking accuracy. The modified AutoDock Vina was thus introduced and the accuracy of docking simulations was significantly increased.
 
 
