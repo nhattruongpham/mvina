@@ -6,7 +6,7 @@ AutoDock Vina formed a very high successful-docking rate but a rather low correl
 
 
 ## Citation
-If you use this code or part of it, please cite the following papers:
+If you use this source or part of it, please cite the following paper:
 
 ```
 @article{DBLP:journals/jcc/PhamNTVPHMTPVN22,
